@@ -19,6 +19,8 @@ Este curso orientado a la solución de problemas específicos en la programació
 
 En este repositorio encontrarás un listado de carpetas. Cada carpeta corresponde con una lección dentro del curso, y en su interior encontrarás dos archivos fuente: uno que contiene el código utilizado en el video en su estado inicial (a), y otro que contiene el código en su estado final (b).
 
+Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta.
+
 ### Docente
 
 **Eliezer López**
