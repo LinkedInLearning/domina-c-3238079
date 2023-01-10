@@ -1,7 +1,7 @@
 # Domina C
 Este es el repositorio del curso de LinkedIn Learning `[Domina C]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url]
+![image](https://user-images.githubusercontent.com/71371373/211572568-f1e78cb2-0a71-44dd-b7db-30a61920b2ff.png)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -26,7 +26,7 @@ En este repositorio encontrarás un listado de carpetas. Cada carpeta correspond
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-c/mejorando-con-c
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
