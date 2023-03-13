@@ -1,7 +1,7 @@
 # Domina C
 Este es el repositorio del curso de LinkedIn Learning `[Domina C]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/211572568-f1e78cb2-0a71-44dd-b7db-30a61920b2ff.png)
+![COURSENAME][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -29,6 +29,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/domina-c/mejorando-con-c
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-
-[1]: # (End of ES-Instruction ###############################################################################################)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQFZVV2B1apmRQ/learning-public-crop_675_1200/0/1674490492544?e=2147483647&v=beta&t=7dAEImsMikl8QmkC-6J2zvKmFYjHu1iBs94CX0IJ4-Q
